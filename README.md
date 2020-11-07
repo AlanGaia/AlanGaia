@@ -1,12 +1,12 @@
-# Hola! 👋
+# Hola 👋
+## :octocat: Bienvenido a mi Github :octocat::
 ## Mi nombre es Alan - Programador Web 💻
-## :octocat:❤️ Gracias por pasarte por mi GitHub ❤️:octocat::
 
-### Algunas cosas sobre mi 🧍:
-- 🔭 Actualmente me encuentro trabajando en Desarrollo Web orientado principalmente en JavaScript. Me parecio lo más sensato orientarme a esta tecnología ya que si lo logras dominar puedes hacer cosas realmente increibles con un solo lenguaje (Frontend - Aplicaciones de Escritorio - Mobile - Backend (NodeJS) entre otras cosas)
+### Algunas cosas sobre mi:
+- 🔭 Actualmente me encuentro trabajando en Desarrollo Web orientado principalmente en JavaScript.
 - ✨ Me fascina la idea de poder crear algo que mejore la calidad de vida de las personas, creo que hay muchas cosas interesantes dentro de la tecnología que se pueden hacer con dedicacíon, trabajo en equipo y una buena idea.
-- 👾 Ademas de Programar me encantan los videojuegos, aunque ultimamente paso mucho mas tiempo programando que jugando, pero siempre hay un lugarcito para el vicio!!
-- 📫 Contacto: En caso de querer contactarte conmigo puedes hacerlo a traves de alan.j.gaia@gmail.com
+- 👾 Ademas de Programar me encantan los videojuegos.
+- 📫 Contacto: alan.j.gaia@gmail.com
 <!--
 **AlanGaia/AlanGaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
